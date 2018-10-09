@@ -40,11 +40,6 @@ function viewCart() {
   return newString
 }
 
-
-
-
-
-
 function total() {
   // write your code here
    var total = 0;
